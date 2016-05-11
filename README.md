@@ -3,7 +3,7 @@ Mobilna aplikacija za kreiranje i provođenje školskog kviza.
 
 ### Autori
 - **Radulović	Petko** 	(petko.radulovic@skole.hr)
-- ** **
+-   
 
 ### Organizacija
 Sveučilište Jurja Dobrile u Puli  
